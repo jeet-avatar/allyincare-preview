@@ -21,20 +21,21 @@
 		});
 	}
 
-	// Reveal-on-scroll for elements below the fold. Elements already animated by
-	// the CSS `.reveal` keyframes (hero) are left alone; this adds a class only to
-	// opted-in `[data-reveal]` nodes so content stays visible without JS.
+	// Reveal-on-scroll for elements below the fold. Opted-in `[data-reveal]` nodes
+	// stay fully visible without JS; when JS + motion are available we add a
+	// `js-reveal` gate on <html> (CSS pre-hides them) then animate on intersect.
 	var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 	var targets = document.querySelectorAll('[data-reveal]');
 	if (!reduce && 'IntersectionObserver' in window && targets.length) {
+		document.documentElement.classList.add('js-reveal');
 		var io = new IntersectionObserver(function (entries) {
 			entries.forEach(function (entry) {
 				if (entry.isIntersecting) {
-					entry.target.classList.add('reveal', 'reveal-1');
+					entry.target.classList.add('is-visible');
 					io.unobserve(entry.target);
 				}
 			});
-		}, { rootMargin: '0px 0px -10% 0px', threshold: 0.1 });
+		}, { rootMargin: '0px 0px -10% 0px', threshold: 0.12 });
 		targets.forEach(function (el) { io.observe(el); });
 	}
 
