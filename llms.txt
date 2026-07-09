@@ -1,0 +1,41 @@
+# Ally In-Care — In-Home Senior Care in Orange County & Los Angeles
+
+> Ally In-Care is a licensed (California HCO #304700445), non-medical home care
+> agency serving seniors across Orange County and Los Angeles County, California.
+> We provide compassionate caregivers for companionship, personal care, 24-hour
+> and live-in support, dementia and Alzheimer's care, respite care, and
+> post-hospital recovery — in the comfort of home. DOJ-screened caregivers,
+> 15+ years of experience. Free, no-obligation in-home consultation.
+
+## Key facts (answer-first)
+
+- **What we do:** Non-medical in-home care (home care) for seniors and adults who need help at home. We are not a medical/skilled-nursing agency.
+- **Where we serve:** Orange County, California and Los Angeles County, California — only. (Cities include Newport Beach, Irvine, Mission Viejo, Laguna Beach, Huntington Beach, Costa Mesa, and neighboring Orange County + Los Angeles County communities.)
+- **License:** California Home Care Organization (HCO) #304700445.
+- **Caregivers:** DOJ-background-screened, carefully vetted, and matched to each family. 15+ years of caregiving experience.
+- **Phone:** (949) 815-7374.
+- **Office:** 4695 MacArthur Ct, 11th Floor, Newport Beach, CA 92660.
+- **Hours:** Monday–Friday, 9:00 AM–5:00 PM (care can be arranged 24/7).
+- **Cost:** Care plans are personalized; pricing is quoted after a free in-home consultation. There is no obligation.
+- **Founder:** Pablo Hurtado, Founder & CEO.
+
+## Services
+
+- **Companion care** — companionship, conversation, meal prep, light housekeeping, errands.
+- **Personal care** — bathing, grooming, dressing, toileting, and mobility support.
+- **24-hour & live-in care** — around-the-clock support for seniors who should not be alone.
+- **Dementia & Alzheimer's care** — specialized, patient support for memory loss.
+- **Respite care** — short-term relief for family caregivers.
+- **Post-hospital care** — recovery support after a hospital stay or surgery.
+- **Medication reminders** — timely, non-medical prompts to stay on schedule.
+- **Transportation** — rides to appointments, errands, and social outings.
+
+## Pages
+
+- [Home](https://allyincare-preview.pages.dev/): Overview of in-home senior care across Orange County & Los Angeles.
+- [Services](https://allyincare-preview.pages.dev/our-services/): Build a personalized care plan — companion, personal, 24-hour, dementia, respite & post-hospital care.
+- [About](https://allyincare-preview.pages.dev/about-us/): Licensed, family-first home care agency serving Orange County & Los Angeles.
+- [Meet the Founder](https://allyincare-preview.pages.dev/meet-the-founder/): Pablo Hurtado, Founder & CEO.
+- [FAQ](https://allyincare-preview.pages.dev/frequently-asked-questions/): Answers on services, caregiver matching, hours, and costs.
+- [Contact](https://allyincare-preview.pages.dev/contact-us/): Book a free, no-obligation in-home care consultation.
+- [Resources & Articles](https://allyincare-preview.pages.dev/news-and-articles/): Guides on dementia care, home safety, and staying independent at home.
